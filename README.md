@@ -8,5 +8,6 @@
 - 🌱 I’m currently learning `go` `rust` `leetcode`, etc.
 - 📫 My email is `84328409@qq.com`.
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bestgopher&hide=html)
-![bestgopher's github stats](https://github-readme-stats.vercel.app/api?username=bestgopher&show_icons=true&count_private=true&line_height=40)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bestgopher&hide=html&&line_height=3)
+![bestgopher's github stats](https://github-readme-stats.vercel.app/api?username=bestgopher&show_icons=true&count_private=true&line_height=30)
+
