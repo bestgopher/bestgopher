@@ -2,7 +2,7 @@
 
 ### Hey 👋, I'm bestgopher.
 
-[![Github](https://img.shields.io/github/followers/bestgopher?label=Follow&style=social)](https://github.com/bestgopher)
+[![Github](https://img.shields.io/github/followers/bestgopher?label=followers&style=social)](https://github.com/bestgopher)
 
 - 🔭 I’m a gopher.
 - 🌱 I’m currently learning `go` `rust` `leetcode`, etc.
