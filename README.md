@@ -5,7 +5,8 @@
 [![Github](https://img.shields.io/github/followers/bestgopher?label=followers&style=social)](https://github.com/bestgopher)
 
 - 🔭 I’m a gopher.
-- 🌱 I’m currently learning `go` `rust` `leetcode`, etc.
+- 😍 I like `golang` `python` `rust`, etc.
+- 🌱 I’m currently learning `golang` `rust` `leetcode`, etc.
 - 📫 My email is `84328409@qq.com`.
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bestgopher&hide=html&&line_height=3)
