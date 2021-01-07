@@ -9,12 +9,12 @@
 - 🌱 I’m currently learning `golang` `rust` `leetcode`, etc.
 - 📫 My email is `84328409@qq.com`.
 - 💪 Aims：
-  - There are 300 days of code submission on github in 2021.
+  - There are **300** days of code submission on github in 2021.
   - Study data structure and algorithms carefully. 
   - Read `csapp`.
   - Actively participate in open source projects.
-  - Study database and network.
-  - Stay healthy.
+  - Study `database` and `network`.
+  - Stay **healthy**.
   - Buy a car.
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bestgopher&hide=html&&line_height=3)
