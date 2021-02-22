@@ -19,6 +19,8 @@
   - Study `database` and `network`.
   - Stay **healthy**.
   - Buy a car.
+- todo:
+  - [ ] read [effective go](https://golang.org/doc/effective_go)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bestgopher&hide=html&&line_height=3)
 ![bestgopher's github stats](https://github-readme-stats.vercel.app/api?username=bestgopher&show_icons=true&count_private=true&line_height=30)
