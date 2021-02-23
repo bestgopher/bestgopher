@@ -20,7 +20,7 @@
   - Stay **healthy**.
   - Buy a car.
 - todo:
-  - [ ] Data Structures and Algorithms
+  - [ ] 数据结构与算法
   - [ ] [effective go](https://golang.org/doc/effective_go)
   - [ ] 数据库系统概论
 
