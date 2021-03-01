@@ -22,6 +22,7 @@
 - 📓 todo:
   - [ ] 数据结构与算法
   - [X] [effective go](https://golang.org/doc/effective_go)
+  - [ ] 计算机网络-自顶向下方法
   - [ ] 数据库系统概论
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bestgopher&hide=html&&line_height=3)
