@@ -21,7 +21,7 @@
   - Buy a car.
 - 📓 todo:
   - [ ] 数据结构与算法
-  - [ ] [effective go](https://golang.org/doc/effective_go)
+  - [X] [effective go](https://golang.org/doc/effective_go)
   - [ ] 数据库系统概论
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bestgopher&hide=html&&line_height=3)
