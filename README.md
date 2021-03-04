@@ -20,6 +20,7 @@
   - Stay **healthy**.
   - Buy a car.
 - 📓 todo:
+  - [ ] MySQL必知必会
   - [ ] 数据结构与算法
   - [X] [effective go](https://golang.org/doc/effective_go)
   - [ ] 计算机网络-自顶向下方法
