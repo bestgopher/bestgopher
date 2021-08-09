@@ -22,7 +22,8 @@
 - 📓 reading:
   - [X] [effective go](https://golang.org/doc/effective_go)
   - [X] [Asynchronous Programming in Rust](https://rust-lang.github.io/async-book/01_getting_started/01_chapter.html)
-  - [x] rust编程之道
+  - [X] <<rust编程之道>>
+  - [X] <<rust权威指南>>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bestgopher&hide=html&&line_height=3)
 ![bestgopher's github stats](https://github-readme-stats.vercel.app/api?username=bestgopher&show_icons=true&count_private=true&line_height=30)
