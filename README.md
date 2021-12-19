@@ -2,6 +2,8 @@
 
 ### Hey 👋, I'm bestgopher.
 
+转行程序员真的好难！！！
+
 [![Github](https://img.shields.io/github/followers/bestgopher?label=followers&style=social)](https://github.com/bestgopher)
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bestgopher" alt="bestgopher" /></a> </p>
 
